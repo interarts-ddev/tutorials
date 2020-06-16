@@ -18,4 +18,4 @@ This is a running source of links to things I'm interested in and tutorials for 
 
 ### residency / fellowship
 
-- <https://www.macdowellcolony.org/>
+- <https://www.macdowellcolony.org/> sept. 19 due ~ artist visits to extended studios
