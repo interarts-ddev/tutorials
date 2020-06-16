@@ -8,4 +8,14 @@ This is a running source of links to things I'm interested in and tutorials for 
 
 ### digital media
 
+- <https://snazzymaps.com/> google maps images in various styles, useful for getting stylized pictures of terrain and roads
+
+- <https://2011-present.bendenzer.com/> ben denzer's great daily series of collages – truly inspiring
+
 ### radical action
+
+## opps
+
+### residency / fellowship
+
+- <https://www.macdowellcolony.org/>
