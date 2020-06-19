@@ -6,6 +6,8 @@ This is a running source of links to things I'm interested in and tutorials for 
 
 ### theatre
 
+<http://nextasy.com/about> nextasy creates innovative projects as Cirque du Soleil's in-house innovation student [intern target]
+
 ### digital media
 
 - <https://snazzymaps.com/> google maps images in various styles, useful for getting stylized pictures of terrain and roads
