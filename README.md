@@ -6,6 +6,7 @@ This is a running source of links to things I'm interested in and tutorials for 
 
 ### theatre
 
+- Need more theatre resources, as always. Devising / writing / collaborating / exercises / processes / and empathy building for ethnographies
 - [Nextasy](http://nextasy.com/about) | Creates innovative projects as Cirque du Soleil's in-house innovation student [intern target]
 
 - [Suguru Yamamoto](https://performingarts.jp/E/art_interview/1501/1.html) Created *Girl X* and utilizes interaction of projected text + performer
@@ -24,11 +25,17 @@ And some of these are faceless corporate websites you should def weaponize again
 
 - [Every Single Spoken Word](https://everysinglewordspoken.tumblr.com/) and [Artist Dylan Marron's website](https://www.dylanmarron.com/every-single-word) | also from NY Neo-Futurists and podcast Welcome to Nightvale, Marron's project edits down and collects the words of POC in contemporary films [video, art, film, action]
 
-- [Matthew Ragan's TouchDesigner Tuts](https://matthewragan.com/) | TouchDesigner daddy who teaches you how to be a deviant little digital vidiot.
+- [Matthew Ragan's TouchDesigner Tuts](https://matthewragan.com/) | TouchDesigner dddaddy who teaches you how to be a deviant little digital vidiot.
+
+- [Matthew Ragan's Taxonomy of Media of Media Installations](https://matthewragan.com/teaching-resources/taxonomy-of-media-installations/) | Dddaddy continues to impress with a wide array of various resources compiled.
 
 - [Ramesh Raskar](https://web.media.mit.edu/~raskar/) Grand DDDaddy of Graphics, MIT professor at MIT Media Lab working in computer graphics and optics.
 
 - [Siggraph Technical Papers on Theatre](https://dl.acm.org/action/doSearch?AllField=Theatre) Why reinvent the wheel when the DDDaddies have been inventing hovercraft? SIGGRAPH is the annual convention for digital media, computer graphics, and technogasms.
+
+- [Simon Alexander-Adams' TouchDesigner Tutorials](https://www.simonaa.media/tutorials-articles) | @polyhop on instagram, tutorials for TouchDesigner
+
+- [Prague Quadrennial's free resources](https://www.pq.cz/2020/03/31/pq-studying-materials/) The Performance Design expo of your DDDreams gives you access to what you've always wanted, more content.
 
 ### radical action
 
