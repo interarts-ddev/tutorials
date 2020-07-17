@@ -7,9 +7,17 @@ This is a running source of links to things I'm interested in and tutorials for 
 ### theatre
 
 - Need more theatre resources, as always. Devising / writing / collaborating / exercises / processes / and empathy building for ethnographies
+
+- [Black Work Broadway](https://blackworkbroadway.com/) | Jeremy O' Harris led project creating a repository of Black performed and created plays on Broadway.
+
+- [CultureHub's LiveLab](https://livelab.app/) | Browser based media router for collaborative performance. Currently in beta.
+
+- [Dystopian Dramaturgies](https://drive.google.com/drive/folders/1MvZYp9IVOgj2yl3b52aj3achJdiaqonB) | Jeremy O' Harris' collection of plays interested in dramaturgies made for a dystopia.
+
 - [Nextasy](http://nextasy.com/about) | Creates innovative projects as Cirque du Soleil's in-house innovation student [intern target]
 
 - [Suguru Yamamoto](https://performingarts.jp/E/art_interview/1501/1.html) Created *Girl X* and utilizes interaction of projected text + performer
+
 
 ### digital media
 
