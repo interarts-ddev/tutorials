@@ -47,7 +47,11 @@ And some of these are faceless corporate websites you should def weaponize again
 
 ### radical action
 
+- [Ali Momeni](https://alimomeni.net/) - projection artist and digital media artist who has created the Manual for Urban Projection
+
 - [Charles Mee's the (re)making project](http://charlesmee.org/) is the collection of Mee's open-source works. from his website: "none of the roles in my play must be played by an intact white person." So yeah, that's lit.
+
+- [The Illuminator](http://theilluminator.org/) | public projection intervention collective
 
 ## bookz
 
