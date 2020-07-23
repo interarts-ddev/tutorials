@@ -57,6 +57,8 @@ And some of these are faceless corporate websites you should def weaponize again
 
 An elegant weapon, for a more civilized age. The printed word, the focused narrative lines, these bookz are some recent reads of mine that I catalog.
 
+- [Black Acting Methods](https://www.amazon.com/Black-Acting-Methods-Sharrell-Luckett/dp/1138907626) by Luckett and Shaffer | Don't try and act black, just learn about black acting and decolonize your theatre training. √√√√√
+
 - [Projection Design & Digital Media] by Oliszewski, Fine, and Roth. The definitive guide to digital media design for the stage, encompassing projection scheduling and typical workflows and Content Creation. The DDDaddies came through on this one. √√√√√
 
 - [Devising in Process] by Heddon and Milling. A critical history of devising methodologies in Britain, America, and Australia. While the scope is frustratingly Western-centric, Heddon and Milling's clarity is beyond question. √√√√
